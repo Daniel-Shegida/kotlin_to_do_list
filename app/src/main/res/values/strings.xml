@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">kotlin_to_do_list</string>
+    <string name="dialog_title">kotlin_to_do_list</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="deleteTitle">delete all?</string>
+    <string name="agree">confirm</string>
+    <string name="disagree">cancel</string>
+    <string name="sucsesfull_delete">ooops</string>
+    <string name="add_todo_title">adding todo</string>
+    <string name="sucsesfull_adding">todo added</string>
+    <string name="unsucsesfull_adding">please enter a string in todo</string>
+</resources>
